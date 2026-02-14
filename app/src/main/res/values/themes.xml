@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Must exist because Manifest references Theme.UniCollab -->
+    <style name="Theme.UniCollab" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Optional: make status bar match app -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+
+</resources>
