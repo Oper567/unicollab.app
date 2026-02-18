@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243860917879",
+    "project_id": "unicollab-b6fb3",
+    "storage_bucket": "unicollab-b6fb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243860917879:android:39b96e349e5ed7ec294072",
+        "android_client_info": {
+          "package_name": "com.unicollabapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcsVvbjsVQPB0mvHLASCxX4mChKIWVO_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
